@@ -6,3 +6,4 @@
 vim.opt.relativenumber = false
 -- Enable absolute line numbers
 vim.opt.number = true
+-- vim.g.OmniSharp_server_use_net6 = 1
